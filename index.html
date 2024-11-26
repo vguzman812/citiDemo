@@ -30,65 +30,75 @@
 				</div>
 			</div>
 		</div>
-		<nav>
-			<ul>
-				<li class="left-nav"><a href="#">Credit Cards</a></li>
-				<li class="left-nav"><a href="#">Banking</a></li>
-				<li class="left-nav"><a href="#">Lending</a></li>
-				<li class="left-nav"><a href="#">Investing</a></li>
-				<li class="left-nav"><a href="#">Wealth Management</a></li>
-				<li class="left-nav"><a href="#">Open an Account</a></li>
-				<li id="right-nav">
-					<img src="/assets/magnifyingGlass.svg" alt="image of a magnifying glass">
-					<a href="#">How can we help?</a>
-				</li>
-			</ul>
-		</nav>
 	</section>
+	<nav>
+		<ul class="left-nav">
+			<li><a href="#">Credit Cards</a></li>
+			<li><a href="#">Banking</a></li>
+			<li><a href="#">Lending</a></li>
+			<li><a href="#">Investing</a></li>
+			<li><a href="#">Wealth Management</a></li>
+			<li><a href="#">Open an Account</a></li>
+		</ul>
+		<ul id="right-nav">
+			<li>
+				<img src="/assets/magnifyingGlass.svg" alt="image of a magnifying glass">
+				<a href="#">How can we help?</a>
+			</li>
+		</ul>
+	</nav>
 
 	<section id="hero">
-		<div class="hero-content">
-			<div class="hero-item hero-2">
-				<div>
-					<h2>CITI® / AADVANTAGE® CREDIT CARDS</h2>
-					<p>Explore Citi® / AAdvantage® Credit Cards</p>
-					<p>Whether you're a frequent flyer or first-time passenger, Citi has an airline rewards credit card
-						to
-						meet your travel needs.</p>
-					<button>Learn More</button>
-				</div>
-				<div>
-					<a href="#">
-						<img src="/assets/Hero_AAdvantage.png" alt="Explore Citi® / AAdvantage® Credit Cards">
-					</a>
-				</div>
+		<div class="hero-item hero-2" id="hero-offer">
+			<h2>CITI® / AADVANTAGE® CREDIT CARDS</h2>
+			<h3>Explore Citi® / AAdvantage® Credit Cards</h3>
+			<p>Whether you're a frequent flyer or first-time passenger, Citi has an airline rewards credit card
+				to
+				meet your travel needs.</p>
+			<button>Learn More</button>
+		</div>
+		<div class="hero-item hero-2">
+			<img src="/assets/Hero_AAdvantage.png" alt="Explore Citi® / AAdvantage® Credit Cards">
+		</div>
+<div class="hero-item hero-1 login">
+	<form>
+		<!-- User ID and Password side by side -->
+		<div class="form-row">
+			<div class="form-field">
+				<label for="username">User ID</label>
+				<input type="text" id="username" placeholder="User ID">
 			</div>
-			<div class="hero-item hero-1 login">
-				<form>
-					<div>
-						<label for="username">User ID</label>
-						<input type="text" id="username" placeholder="User ID">
-					</div>
-					<div>
-						<label for="password">Password</label>
-						<input type="password" id="password" placeholder="Password">
-					</div>
-					<div>
-						<input type="checkbox" id="remember">
-						<label for="remember">Remember User ID</label>
-					</div>
-					<button type="button">Sign On</button>
-					<div class="auth-links">
-						<a href="#">Register</a> /
-						<a href="#">Activate</a>
-					</div>
-					<div class="auth-links">
-						<a href="#">Forgot User ID</a> or
-						<a href="#">Forgot Password</a>
-					</div>
-				</form>
+			<div class="form-field">
+				<label for="password">Password</label>
+				<input type="password" id="password" placeholder="Password">
 			</div>
 		</div>
+		<!-- Remember Me checkbox -->
+		<div class="form-row remember-me">
+			<input type="checkbox" id="remember">
+			<label for="remember">Remember User ID</label>
+		</div>
+		<!-- Sign On button taking up the whole line -->
+		<button type="button">Sign On</button>
+		<!-- Register/Activate and Forgot links on the same line -->
+		<div class="auth-links">
+			<div class="left-links">
+				<a href="#">Register</a> /
+				<a href="#">Activate</a>
+			</div>
+			<div class="right-links">
+				<a href="#">Forgot User ID</a> or
+				<a href="#">Forgot Password</a>
+			</div>
+		</div>
+		<!-- Passwordless Sign On link -->
+		<div class="passwordless">
+			<a href="#">Passwordless Sign On</a>
+		</div>
+	</form>
+</div>
+
+
 	</section>
 
 	<section id="footer">
