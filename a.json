@@ -1,0 +1,1095 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1732678996787,
+  "data": {
+    "flightOffers": [
+      {
+        "token": "d7699_H4sIAAAAAAAA_1WQUW-bMBCAf03yhjEG4lDJmijQlAYIIbB1e7GIcQhZFjLsCcqvnwOTpuos3_edffdwZynv4knXT9emPkuh_RGgbmVbl5ID1v7ST526jm37s7nVetl0-iHyUjdDjh94CL65iW7qmgr29PKFl_cGdOBEgvc8yBI3onkWpjTNQi9MNks-SE10jCybIwcl0RzHmVEwsv5HHVkBK3LwD7-IphJrJbGAjffP-XrzmsVzsSObMPLtub8isdf3kR-I-NAPu9EVs6vsi343Bji57HGSV9n-urey8fy6y8UQG8WoelBcQBHn34fcl_HXZpqzMP1pMGeMGABY2DEmb0tBzJmYJAjOWElySKLnpJhVEgMiZOG5ZSCGaUO4FPzKmWza25Z_kMK1HQw1tUPOkKWltHAd57Pbtqa2W96QPelqZXxyvDL_-wJ519-w-rgoWJiuOjW1AFJhAUvZmUIAgfEIZSV9SUGCQfQGDlvwbqvSkbqPf4xu1V1R58htzBVyanC2VnCij_eGmmoOVHSh4TeVRsr6Fnf3v47MN4dEAgAA",
+        "segments": [
+          {
+            "departureAirport": {
+              "type": "AIRPORT",
+              "code": "SLC",
+              "name": "Salt Lake City International Airport",
+              "city": "SLC",
+              "cityName": "Salt Lake City",
+              "country": "US",
+              "countryName": "United States",
+              "province": "Utah",
+              "provinceCode": "UT"
+            },
+            "arrivalAirport": {
+              "type": "AIRPORT",
+              "code": "CDG",
+              "name": "Paris - Charles De Gaulle Airport",
+              "city": "PAR",
+              "cityName": "Paris",
+              "country": "FR",
+              "countryName": "France",
+              "province": "Île de France"
+            },
+            "departureTime": "2024-12-29T09:25:00",
+            "arrivalTime": "2024-12-30T09:40:00",
+            "legs": [
+              {
+                "departureTime": "2024-12-29T09:25:00",
+                "arrivalTime": "2024-12-29T11:00:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "SLC",
+                  "name": "Salt Lake City International Airport",
+                  "city": "SLC",
+                  "cityName": "Salt Lake City",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Utah",
+                  "provinceCode": "UT"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "SFO",
+                  "name": "San Francisco International Airport",
+                  "city": "SFO",
+                  "cityName": "San Francisco",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "California",
+                  "provinceCode": "CA"
+                },
+                "cabinClass": "FIRST",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 5970,
+                  "planeType": "CR7",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": "Skywest DBA United Express"
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 9300,
+                "flightStops": [],
+                "amenities": [],
+                "arrivalTerminal": "3"
+              },
+              {
+                "departureTime": "2024-12-29T13:55:00",
+                "arrivalTime": "2024-12-30T09:40:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "SFO",
+                  "name": "San Francisco International Airport",
+                  "city": "SFO",
+                  "cityName": "San Francisco",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "California",
+                  "provinceCode": "CA"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "CDG",
+                  "name": "Paris - Charles De Gaulle Airport",
+                  "city": "PAR",
+                  "cityName": "Paris",
+                  "country": "FR",
+                  "countryName": "France",
+                  "province": "Île de France"
+                },
+                "cabinClass": "BUSINESS",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 990,
+                  "planeType": "788",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 38700,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "I",
+                "arrivalTerminal": "1"
+              }
+            ],
+            "totalTime": 58500
+          },
+          {
+            "departureAirport": {
+              "type": "AIRPORT",
+              "code": "CDG",
+              "name": "Paris - Charles De Gaulle Airport",
+              "city": "PAR",
+              "cityName": "Paris",
+              "country": "FR",
+              "countryName": "France",
+              "province": "Île de France"
+            },
+            "arrivalAirport": {
+              "type": "AIRPORT",
+              "code": "SLC",
+              "name": "Salt Lake City International Airport",
+              "city": "SLC",
+              "cityName": "Salt Lake City",
+              "country": "US",
+              "countryName": "United States",
+              "province": "Utah",
+              "provinceCode": "UT"
+            },
+            "departureTime": "2025-01-20T12:55:00",
+            "arrivalTime": "2025-01-20T22:32:00",
+            "legs": [
+              {
+                "departureTime": "2025-01-20T12:55:00",
+                "arrivalTime": "2025-01-20T15:40:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "CDG",
+                  "name": "Paris - Charles De Gaulle Airport",
+                  "city": "PAR",
+                  "cityName": "Paris",
+                  "country": "FR",
+                  "countryName": "France",
+                  "province": "Île de France"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "EWR",
+                  "name": "Newark Liberty International Airport",
+                  "city": "NYC",
+                  "cityName": "New York",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "New York State",
+                  "provinceCode": "NY"
+                },
+                "cabinClass": "BUSINESS",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 55,
+                  "planeType": "763",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 31500,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "1",
+                "arrivalTerminal": "C"
+              },
+              {
+                "departureTime": "2025-01-20T17:08:00",
+                "arrivalTime": "2025-01-20T18:54:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "EWR",
+                  "name": "Newark Liberty International Airport",
+                  "city": "NYC",
+                  "cityName": "New York",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "New York State",
+                  "provinceCode": "NY"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "ORD",
+                  "name": "Chicago O'Hare International Airport",
+                  "city": "CHI",
+                  "cityName": "Chicago",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Illinois",
+                  "provinceCode": "IL"
+                },
+                "cabinClass": "FIRST",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 661,
+                  "planeType": "739",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 9960,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "C",
+                "arrivalTerminal": "1"
+              },
+              {
+                "departureTime": "2025-01-20T19:53:00",
+                "arrivalTime": "2025-01-20T22:32:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "ORD",
+                  "name": "Chicago O'Hare International Airport",
+                  "city": "CHI",
+                  "cityName": "Chicago",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Illinois",
+                  "provinceCode": "IL"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "SLC",
+                  "name": "Salt Lake City International Airport",
+                  "city": "SLC",
+                  "cityName": "Salt Lake City",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Utah",
+                  "provinceCode": "UT"
+                },
+                "cabinClass": "FIRST",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 763,
+                  "planeType": "739",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 13140,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "1"
+              }
+            ],
+            "totalTime": 63420
+          }
+        ],
+        "travellerPrices": [
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 240000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 630000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2213,
+                "nanos": 610000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 240000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              }
+            },
+            "travellerReference": "1",
+            "travellerType": "ADULT"
+          },
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 240000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 630000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2213,
+                "nanos": 610000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 240000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              }
+            },
+            "travellerReference": "2",
+            "travellerType": "ADULT"
+          },
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 230000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 620000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2213,
+                "nanos": 610000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3408,
+                "nanos": 230000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3409
+              }
+            },
+            "travellerReference": "3",
+            "travellerType": "ADULT"
+          }
+        ],
+        "pointOfSale": "us",
+        "tripType": "ROUNDTRIP"
+      },
+      {
+        "token": "d7699_H4sIAAAAAAAA_1WQUW-bMBCAf03yhrENhLiSVVEgCS0BmpB024sFDgG6LkTYVdL8-l1gUjWddfd95_M9uNH6rB5M8_jR1o1WxqdCdae7utAVkt0f89hDKrvud3uqzaLtzW3sZ96GsiD0KX72EtMyDQj5sHisinOLenTk4Y883CReLPJNlIlsE_lRspxWV22oXvJpW1ao4AZjbEQl-fwf9XyG7Ji5v4JdPLRkp7mNHPf1KZ8vV5vV2Oz58jnN6X6wA1_7l0schGqdK6ieunt681xwmgSKJGTh74NmlYbSSW_hbZ-vYfbnNd9ersn7Yp3iJhrevU6sAM6wtpKSE4Rsl5HBu0JxaySpOcUjHjTfJvFTshtVc4IpZrNx8MqJ5WA8VdVHJXXbnV6qL77zHOZiA36wktQ2MrHzGPvfnZkBf1ucqDMosSzy3ZhQ_9CUxWcHMLE8OLWwEYWwgRuBEUYEEeBCLDKUuAjy2xa8FN59RIoXyAfByhJLClgJMmcS4Cju962wYAUGehfRG5SbKCUl59lfULCtbywCAAA.",
+        "segments": [
+          {
+            "departureAirport": {
+              "type": "AIRPORT",
+              "code": "SLC",
+              "name": "Salt Lake City International Airport",
+              "city": "SLC",
+              "cityName": "Salt Lake City",
+              "country": "US",
+              "countryName": "United States",
+              "province": "Utah",
+              "provinceCode": "UT"
+            },
+            "arrivalAirport": {
+              "type": "AIRPORT",
+              "code": "CDG",
+              "name": "Paris - Charles De Gaulle Airport",
+              "city": "PAR",
+              "cityName": "Paris",
+              "country": "FR",
+              "countryName": "France",
+              "province": "Île de France"
+            },
+            "departureTime": "2024-12-29T09:25:00",
+            "arrivalTime": "2024-12-30T09:40:00",
+            "legs": [
+              {
+                "departureTime": "2024-12-29T09:25:00",
+                "arrivalTime": "2024-12-29T11:00:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "SLC",
+                  "name": "Salt Lake City International Airport",
+                  "city": "SLC",
+                  "cityName": "Salt Lake City",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Utah",
+                  "provinceCode": "UT"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "SFO",
+                  "name": "San Francisco International Airport",
+                  "city": "SFO",
+                  "cityName": "San Francisco",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "California",
+                  "provinceCode": "CA"
+                },
+                "cabinClass": "FIRST",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 5970,
+                  "planeType": "CR7",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": "Skywest DBA United Express"
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 9300,
+                "flightStops": [],
+                "amenities": [],
+                "arrivalTerminal": "3"
+              },
+              {
+                "departureTime": "2024-12-29T13:55:00",
+                "arrivalTime": "2024-12-30T09:40:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "SFO",
+                  "name": "San Francisco International Airport",
+                  "city": "SFO",
+                  "cityName": "San Francisco",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "California",
+                  "provinceCode": "CA"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "CDG",
+                  "name": "Paris - Charles De Gaulle Airport",
+                  "city": "PAR",
+                  "cityName": "Paris",
+                  "country": "FR",
+                  "countryName": "France",
+                  "province": "Île de France"
+                },
+                "cabinClass": "BUSINESS",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 990,
+                  "planeType": "788",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 38700,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "I",
+                "arrivalTerminal": "1"
+              }
+            ],
+            "totalTime": 58500,
+            "travellerCheckedLuggage": [
+              {
+                "travellerReference": "1",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              },
+              {
+                "travellerReference": "2",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              },
+              {
+                "travellerReference": "3",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              }
+            ],
+            "travellerCabinLuggage": [
+              {
+                "travellerReference": "1",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              },
+              {
+                "travellerReference": "2",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              },
+              {
+                "travellerReference": "3",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              }
+            ],
+            "isAtolProtected": false,
+            "showWarningDestinationAirport": false,
+            "showWarningOriginAirport": false
+          },
+          {
+            "departureAirport": {
+              "type": "AIRPORT",
+              "code": "CDG",
+              "name": "Paris - Charles De Gaulle Airport",
+              "city": "PAR",
+              "cityName": "Paris",
+              "country": "FR",
+              "countryName": "France",
+              "province": "Île de France"
+            },
+            "arrivalAirport": {
+              "type": "AIRPORT",
+              "code": "SLC",
+              "name": "Salt Lake City International Airport",
+              "city": "SLC",
+              "cityName": "Salt Lake City",
+              "country": "US",
+              "countryName": "United States",
+              "province": "Utah",
+              "provinceCode": "UT"
+            },
+            "departureTime": "2025-01-20T09:25:00",
+            "arrivalTime": "2025-01-20T22:52:00",
+            "legs": [
+              {
+                "departureTime": "2025-01-20T09:25:00",
+                "arrivalTime": "2025-01-20T11:50:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "CDG",
+                  "name": "Paris - Charles De Gaulle Airport",
+                  "city": "PAR",
+                  "cityName": "Paris",
+                  "country": "FR",
+                  "countryName": "France",
+                  "province": "Île de France"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "EWR",
+                  "name": "Newark Liberty International Airport",
+                  "city": "NYC",
+                  "cityName": "New York",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "New York State",
+                  "provinceCode": "NY"
+                },
+                "cabinClass": "BUSINESS",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 56,
+                  "planeType": "777",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 30300,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "1",
+                "arrivalTerminal": "B"
+              },
+              {
+                "departureTime": "2025-01-20T19:40:00",
+                "arrivalTime": "2025-01-20T22:52:00",
+                "departureAirport": {
+                  "type": "AIRPORT",
+                  "code": "EWR",
+                  "name": "Newark Liberty International Airport",
+                  "city": "NYC",
+                  "cityName": "New York",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "New York State",
+                  "provinceCode": "NY"
+                },
+                "arrivalAirport": {
+                  "type": "AIRPORT",
+                  "code": "SLC",
+                  "name": "Salt Lake City International Airport",
+                  "city": "SLC",
+                  "cityName": "Salt Lake City",
+                  "country": "US",
+                  "countryName": "United States",
+                  "province": "Utah",
+                  "provinceCode": "UT"
+                },
+                "cabinClass": "FIRST",
+                "flightInfo": {
+                  "facilities": [],
+                  "flightNumber": 1331,
+                  "planeType": "7M8",
+                  "carrierInfo": {
+                    "operatingCarrier": "UA",
+                    "marketingCarrier": "UA",
+                    "operatingCarrierDisclosureText": ""
+                  }
+                },
+                "carriers": ["UA", "UA"],
+                "carriersData": [
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  },
+                  {
+                    "name": "United Airlines",
+                    "code": "UA",
+                    "logo": "https://r-xx.bstatic.com/data/airlines_logo/UA.png"
+                  }
+                ],
+                "totalTime": 18720,
+                "flightStops": [],
+                "amenities": [],
+                "departureTerminal": "A"
+              }
+            ],
+            "totalTime": 77220,
+            "travellerCheckedLuggage": [
+              {
+                "travellerReference": "1",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              },
+              {
+                "travellerReference": "2",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              },
+              {
+                "travellerReference": "3",
+                "luggageAllowance": {
+                  "luggageType": "CHECKED_IN",
+                  "ruleType": "PIECE_BASED",
+                  "maxPiece": 2,
+                  "maxWeightPerPiece": 70.6,
+                  "massUnit": "LB"
+                }
+              }
+            ],
+            "travellerCabinLuggage": [
+              {
+                "travellerReference": "1",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              },
+              {
+                "travellerReference": "2",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              },
+              {
+                "travellerReference": "3",
+                "luggageAllowance": {
+                  "luggageType": "HAND",
+                  "maxPiece": 1,
+                  "sizeRestrictions": {
+                    "maxLength": 22.1,
+                    "maxWidth": 13.8,
+                    "maxHeight": 9.1,
+                    "sizeUnit": "INCH"
+                  }
+                },
+                "personalItem": true
+              }
+            ],
+            "isAtolProtected": false,
+            "showWarningDestinationAirport": false,
+            "showWarningOriginAirport": false
+          }
+        ],
+        "travellerPrices": [
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 100000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2209,
+                "nanos": 110000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              }
+            },
+            "travellerReference": "1",
+            "travellerType": "ADULT"
+          },
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 100000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2209,
+                "nanos": 110000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              }
+            },
+            "travellerReference": "2",
+            "travellerType": "ADULT"
+          },
+          {
+            "travellerPriceBreakdown": {
+              "total": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "baseFare": {
+                "currencyCode": "USD",
+                "units": 1192,
+                "nanos": 0
+              },
+              "fee": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 100000000
+              },
+              "tax": {
+                "currencyCode": "USD",
+                "units": 2209,
+                "nanos": 110000000
+              },
+              "totalRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              },
+              "moreTaxesAndFees": {},
+              "discount": {
+                "currencyCode": "USD",
+                "units": 0,
+                "nanos": 0
+              },
+              "totalWithoutDiscount": {
+                "currencyCode": "USD",
+                "units": 3403,
+                "nanos": 210000000
+              },
+              "totalWithoutDiscountRounded": {
+                "currencyCode": "USD",
+                "nanos": 0,
+                "units": 3404
+              }
+            },
+            "travellerReference": "3",
+            "travellerType": "ADULT"
+          }
+        ],
+        "pointOfSale": "us",
+        "tripType": "ROUNDTRIP"
+      }
+    ],
+    "flightDeals": [
+      {
+        "key": "CHEAPEST",
+        "offerToken": "d7699_H4sIAAAAAAAA_1WQUW-bMBCAf03yhrENhLiSVVEgCS0BmpB024sFDgG6LkTYVdL8-l1gUjWddfd95_M9uNH6rB5M8_jR1o1WxqdCdae7utAVkt0f89hDKrvud3uqzaLtzW3sZ96GsiD0KX72EtMyDQj5sHisinOLenTk4Y883CReLPJNlIlsE_lRspxWV22oXvJpW1ao4AZjbEQl-fwf9XyG7Ji5v4JdPLRkp7mNHPf1KZ8vV5vV2Oz58jnN6X6wA1_7l0schGqdK6ieunt681xwmgSKJGTh74NmlYbSSW_hbZ-vYfbnNd9ersn7Yp3iJhrevU6sAM6wtpKSE4Rsl5HBu0JxaySpOcUjHjTfJvFTshtVc4IpZrNx8MqJ5WA8VdVHJXXbnV6qL77zHOZiA36wktQ2MrHzGPvfnZkBf1ucqDMosSzy3ZhQ_9CUxWcHMLE8OLWwEYWwgRuBEUYEEeBCLDKUuAjy2xa8FN59RIoXyAfByhJLClgJMmcS4Cju962wYAUGehfRG5SbKCUl59lfULCtbywCAAA.",
+        "price": {
+          "currencyCode": "USD",
+          "units": 10209,
+          "nanos": 630000000
+        }
+      },
+      {
+        "key": "FASTEST",
+        "offerToken": "d7699_H4sIAAAAAAAA_1WQ226jMBBAvyZ5w4C5OFSyKgokJQGScGm7fbGIYwjZbIiwq7B8_TpQaVXNyD5nxhdpTkLc-JOqVpemPgmufHFQt6KtS8EAbf-oVSeXQ9v-bq61WjadmkXezk2h4wce1NZuohqqIoM-LZ9ZeWtAByocfORBmrgRydNwR3Zp6IXJas56ofCO4nlzYKDEiuM4E3KKF9_UYRuYkYM-SIaS7QV2AQW2r_ki9Vrvp6KHV6FwdsyH-2IY-9-j_yAx9m93w4un1zuPr9vhwAl5z1K8mO6v-zNdDi9bnPex3oxyDswLjQe57_63Lv3yXkZb7X-fbyb9V5ezwxf5vgNoxTrAJjI0UdvS46NiajAUJvwKHCWRC9JManAOkSa4UzdHuuGpWlzzi6Miqa9bthfXLjQtG1FTpRRaCqfpHCdBfrhlqXIWZdXaCk7qbat_3BkG_99Br2rcblxKGFmuDJrYgIowwSmtBPRgAb0R0grSRSAtwBEa5BtwIclSwfiPs5RspHrkVC9dJAtkRFYwQdU5NFviCHf0SSdSfgut4GUJkKU_QPq3qy3UgIAAA..",
+        "price": {
+          "currencyCode": "USD",
+          "units": 12703,
+          "nanos": 900000000
+        }
+      },
+      {
+        "key": "BEST",
+        "offerToken": "d7699_H4sIAAAAAAAA_1WQUW-bMBCAf03yhjEG4lDJmijQlAYIIbB1e7GIcQhZFjLsCcqvnwOTpuos3_edffdwZynv4knXT9emPkuh_RGgbmVbl5ID1v7ST526jm37s7nVetl0-iHyUjdDjh94CL65iW7qmgr29PKFl_cGdOBEgvc8yBI3onkWpjTNQi9MNks-SE10jCybIwcl0RzHmVEwsv5HHVkBK3LwD7-IphJrJbGAjffP-XrzmsVzsSObMPLtub8isdf3kR-I-NAPu9EVs6vsi343Bji57HGSV9n-urey8fy6y8UQG8WoelBcQBHn34fcl_HXZpqzMP1pMGeMGABY2DEmb0tBzJmYJAjOWElySKLnpJhVEgMiZOG5ZSCGaUO4FPzKmWza25Z_kMK1HQw1tUPOkKWltHAd57Pbtqa2W96QPelqZXxyvDL-wJ519-w-rgoWJiuOjW1AFJhAUvZmUIAgfEIZSV9SUGCQfQGDlvwbqvSkbqPf4xu1V1R58htzBVyanC2VnCij_eGmmoOVHSh4TeVRsr6Fnf3v47MN4dEAgAA",
+        "price": {
+          "currencyCode": "USD",
+          "units": 10224,
+          "nanos": 710000000
+        }
+      }
+    ]
+  }
+}
